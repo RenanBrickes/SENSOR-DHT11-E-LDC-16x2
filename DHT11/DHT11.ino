@@ -1,3 +1,4 @@
+//Criado por Renan Brickes
 #include <LiquidCrystal.h>
 #include "DHT.h"
  
